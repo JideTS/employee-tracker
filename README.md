@@ -26,7 +26,8 @@ N/A
 
 ## Preview of the deployed application
 
-<img width="749" alt="A preview of an employee management application" src="https://github.com/JideTS/employee-tracker/assets/20988563/0a9f930e-6cd6-4ad0-b3fe-d2220997e1a7">
+<img width="749" alt="A preview of an employee management application" src="https://github.com/JideTS/employee-tracker/assets/20988563/8288c6f2-809f-491c-ad2d-3a22d84ef873">
+
 
 ## Demo video of the application
 
